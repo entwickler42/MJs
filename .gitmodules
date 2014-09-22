@@ -1,0 +1,21 @@
+[submodule "ext/ewdGateway.git"]
+	path = ext/ewdGateway.git
+	url = https://github.com/robtweed/ewdGateway.git
+[submodule "ext/ewd.git"]
+	path = ext/ewd.git
+	url = https://github.com/robtweed/ewd.js.git
+[submodule "ext/ewdGateway2.git"]
+	path = ext/ewdGateway2.git
+	url = https://github.com/robtweed/ewdGateway2.git
+[submodule "ext/globals.js.git"]
+	path = ext/globals.js.git
+	url = https://github.com/robtweed/globals.js.git
+[submodule "ext/node-mdb.git"]
+	path = ext/node-mdb.git
+	url = https://github.com/robtweed/node-mdb.git
+[submodule "ext/node-mdbm.git"]
+	path = ext/node-mdbm.git
+	url = https://github.com/robtweed/node-mdbm.git
+[submodule "ext/nodem.git"]
+	path = ext/nodem.git
+	url = https://github.com/dlwicksell/nodem.git
