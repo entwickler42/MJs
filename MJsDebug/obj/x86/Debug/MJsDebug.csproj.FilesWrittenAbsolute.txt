@@ -1,0 +1,6 @@
+/media/Storage/src/MJs.git/MJsDebug/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/media/Storage/src/MJs.git/MJsDebug/obj/x86/Debug/MJsDebug.gtk-gui.gui.stetic
+/media/Storage/src/MJs.git/MJsDebug/bin/Debug/MJsDebug.exe.mdb
+/media/Storage/src/MJs.git/MJsDebug/bin/Debug/MJsDebug.exe
+/media/Storage/src/MJs.git/MJsDebug/obj/x86/Debug/MJsDebug.exe
+/media/Storage/src/MJs.git/MJsDebug/obj/x86/Debug/MJsDebug.exe.mdb

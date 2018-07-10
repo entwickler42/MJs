@@ -1,2 +1,8 @@
 bak
 
+*.o
+*.obj
+debug/*
+Debug/*
+release/*
+Release/*

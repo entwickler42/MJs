@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProductVersion>10.0.0</ProductVersion>
+    <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{529CF511-E338-4F26-9401-1926E0E27937}</ProjectGuid>
     <OutputType>Exe</OutputType>
@@ -18,8 +18,8 @@
     <DefineConstants>DEBUG;</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <ConsolePause>false</ConsolePause>
     <PlatformTarget>x86</PlatformTarget>
+    <Externalconsole>true</Externalconsole>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
     <DebugType>full</DebugType>
@@ -38,6 +38,7 @@
     <Compile Include="MMPP\Package.cs" />
     <Compile Include="MJsharp.cs" />
     <Compile Include="MMPP\Client.cs" />
+    <Compile Include="MJsClient.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System.Net" />

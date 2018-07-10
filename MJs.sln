@@ -5,9 +5,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MJsharp", "MJsharp\MJsharp.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MJs2", "MJs2", "{2ADA0E08-49D3-4BB8-A427-B8018038CB3D}"
 	ProjectSection(SolutionItems) = preProject
-		mjs2\lfdgw.js = mjs2\lfdgw.js
 		mjs2\tcppkg.js = mjs2\tcppkg.js
 		mjs2\tcpsrv.js = mjs2\tcpsrv.js
+		mjs2\mjs2gw.js = mjs2\mjs2gw.js
 	EndProjectSection
 EndProject
 Global

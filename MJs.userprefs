@@ -1,6 +1,16 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MJsharp/MMPP/Package.cs">
+    <Files>
+      <File FileName="mjs2/mjs2gw.js" Line="13" Column="24" />
+      <File FileName="mjs2/tcpsrv.js" Line="22" Column="7" />
+      <File FileName="mjs2/tcppkg.js" Line="1" Column="1" />
+      <File FileName="MJsharp/MJsharp.cs" Line="1" Column="1" />
+      <File FileName="MJsharp/MJsClient.cs" Line="50" Column="6" />
+      <File FileName="MJsharp/MMPP/Client.cs" Line="155" Column="45" />
+      <File FileName="MJsharp/MMPP/Package.cs" Line="14" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -1,0 +1,8 @@
+D:\src\MJs.git\MJsharp\bin\Debug\MJsharp.exe
+D:\src\MJs.git\MJsharp\bin\Debug\MJsharp.pdb
+D:\src\MJs.git\MJsharp\obj\x86\Debug\MJsharp.exe
+D:\src\MJs.git\MJsharp\obj\x86\Debug\MJsharp.pdb
+E:\src\MJs.git\MJsharp\bin\Debug\MJsharp.exe
+E:\src\MJs.git\MJsharp\bin\Debug\MJsharp.pdb
+E:\src\MJs.git\MJsharp\obj\x86\Debug\MJsharp.exe
+E:\src\MJs.git\MJsharp\obj\x86\Debug\MJsharp.pdb
