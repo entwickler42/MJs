@@ -6,3 +6,5 @@ debug/*
 Debug/*
 release/*
 Release/*
+
+.DS_Store
