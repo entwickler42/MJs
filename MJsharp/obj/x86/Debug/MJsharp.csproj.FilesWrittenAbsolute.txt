@@ -1,5 +1,0 @@
-/media/Storage/src/MJs.git/MJsharp/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
-/media/Storage/src/MJs.git/MJsharp/bin/Debug/MJsharp.exe.mdb
-/media/Storage/src/MJs.git/MJsharp/bin/Debug/MJsharp.exe
-/media/Storage/src/MJs.git/MJsharp/obj/x86/Debug/MJsharp.exe
-/media/Storage/src/MJs.git/MJsharp/obj/x86/Debug/MJsharp.exe.mdb
